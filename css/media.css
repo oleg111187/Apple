@@ -6,4 +6,7 @@
     .anim {
         background-size: 60%;
     }
+    #network li {
+        width: 192px;
+    }
 }
