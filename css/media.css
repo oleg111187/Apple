@@ -1,6 +1,7 @@
 @media only screen and (max-width:1210px)
 {
-    html {width: 1210px;
+    html {
+        width: 100%;
         margin: 0 auto;
     }
 }
